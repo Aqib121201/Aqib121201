@@ -8,7 +8,7 @@
 <li>🛠️ Passionate about creating <strong>scalable backend systems</strong> and integrating AI-driven solutions</li> 
 <li>👯 Open for collaborations on <strong>Spring Boot & AI Projects</strong></li>
 <li>📫 Reach me at: <a href="mailto:siddquiaqib@gmail.com" style="color: #e67e22;">siddquiaqib@gmail.com</a></li> 
-<li>📄 More details in my <a href="https://drive.google.com/file/d/1q6thNSizWgT7IoL_EIvRjZwGfVsK8Lz6/view?usp=sharing" target="_blank" style="color: #3498db;">Resume</a></li> </ul> </div>
+<li>📄 More details in my <a href="https://drive.google.com/file/d/16BtQlXuDhI5IK4bbyIyJaF-sHkRZMYlx/view?usp=sharing" target="_blank" style="color: #3498db;">Resume</a></li> </ul> </div>
 <h2 align="center">💻 Tech Stack & Tools</h2>
  <div align="center"> <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,java,spring,hibernate,python,mysql,postman,git,github,aws,docker,redis,kafka" alt="tech-stack" /> 
 </div> <p align="center" style="font-size: 1rem;"> 
