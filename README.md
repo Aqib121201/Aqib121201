@@ -27,7 +27,7 @@
       <li>⚡️ <strong style="color: #22d3ee;">Passion:</strong> Engineering <strong style="color: #f59e0b;">scalable backend systems</strong> with AI-driven intelligence</li>
       <li>🤖 <strong style="color: #22d3ee;">Collaboration:</strong> Seeking allies for <strong style="color: #ec4899;">Spring Boot & AI</strong> expeditions</li>
       <li>📡 <strong style="color: #22d3ee;">Signal:</strong> Connect at <a href="mailto:siddquiaqib@gmail.com" style="color: #f59e0b; text-decoration: none; transition: color 0.3s;">siddquiaqib@gmail.com</a></li>
-      <li>📜 <strong style="color: #22d3ee;">Blueprint:</strong> Explore my <a href="https://drive.google.com/file/d/1ELANcoZZCe4TepOM6xpA5kSfwXmuJNVH/view?usp=sharing" target="_blank" style="color: #3b82f6; text-decoration: none; transition: color 0.3s;">Resume</a></li>
+      <li>📜 <strong style="color: #22d3ee;">Blueprint:</strong> Explore my <a href="https://drive.google.com/file/d/1PurBCTmDky46q1NpQjy-O5Ju7656iw6s/view?usp=sharing" target="_blank" style="color: #3b82f6; text-decoration: none; transition: color 0.3s;">Resume</a></li>
     </ul>
   </div>
 </div>
