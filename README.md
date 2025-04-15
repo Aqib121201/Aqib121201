@@ -3,8 +3,6 @@
 <!-- Particle Background -->
 <img src="https://raw.githubusercontent.com/Aqib121201/Aqib121201/main/assets/stars-particle.gif" alt="stars-particle" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: -1; opacity: 0.5;"/>
 
-<!-- Futuristic Banner -->
-<img src="https://media.giphy.com/media/26FPJGjhefSJuaRhu/giphy.gif" alt="futuristic-banner" width="100%" style="border-radius: 15px; box-shadow: 0 0 20px rgba(59, 130, 246, 0.8); margin-bottom: 20px;"/>
 
 <!-- Title -->
 <h1 style="color: #3b82f6; font-size: 3em; font-weight: bold; text-shadow: 0 0 15px rgba(59, 130, 246, 0.9);">
