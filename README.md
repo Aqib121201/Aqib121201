@@ -1,79 +1,112 @@
-<div align="center" style="background: linear-gradient(180deg, #0d0d2b 0%, #1a1a3d 100%); padding: 50px; border-radius: 20px; box-shadow: 0 0 30px rgba(147, 51, 234, 0.7); position: relative; overflow: hidden;">
-
-<!-- Particle Background -->
-<img src="https://raw.githubusercontent.com/Aqib121201/Aqib121201/main/assets/stars-particle.gif" alt="stars-particle" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: -1; opacity: 0.5;"/>
-
-
-<!-- Title -->
-<h1 style="color: #3b82f6; font-size: 3em; font-weight: bold; text-shadow: 0 0 15px rgba(59, 130, 246, 0.9);">
-  👽 Greetings, I'm <span style="color: #9333ea;">Aqib Siddiqui</span>
-</h1>
-<h3 style="color: #22d3ee; font-size: 2em; font-weight: 600; text-shadow: 0 0 10px rgba(34, 211, 238, 0.8); margin: 10px 0;">
-  Software Development Engineer | Architect of Spring Boot Galaxies 🌌
-</h3>
-
-<!-- Neon Coding Animation -->
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="coding-neon" width="40%" style="margin: 20px 0; border: 3px solid #9333ea; border-radius: 12px; box-shadow: 0 0 15px rgba(147, 51, 234, 0.6);"/>
-
+<!-- Header Banner -->
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&reversal=true&section=header"/>
 </div>
 
-<!-- About Me Section -->
-<div align="center" style="background: rgba(30, 30, 47, 0.9); padding: 40px; margin: 30px 0; border-radius: 15px; box-shadow: 0 0 25px rgba(59, 130, 246, 0.5); border: 1px solid #3b82f6;">
-  <h2 style="color: #ec4899; font-size: 2.2em; font-weight: bold; text-shadow: 0 0 10px rgba(236, 72, 153, 0.8);">🌌 About Me</h2>
-  <div style="text-align: left; width: 75%; color: #e5e7eb; font-size: 1.2em; line-height: 1.6;">
-    <ul style="list-style: none; padding: 0;">
-      <li>🪐 <strong style="color: #22d3ee;">Mission:</strong> Powered the <a href="https://edistrict.hp.gov.in/" target="_blank" style="color: #3b82f6; text-decoration: none; transition: color 0.3s;">HPeDistrict Portal</a> to new frontiers</li>
-      <li>💫 <strong style="color: #22d3ee;">Training:</strong> Mastering <strong style="color: #9333ea;">Spring Boot</strong> and venturing into <strong style="color: #9333ea;">Generative AI</strong> realms</li>
-      <li>⚡️ <strong style="color: #22d3ee;">Passion:</strong> Engineering <strong style="color: #f59e0b;">scalable backend systems</strong> with AI-driven intelligence</li>
-      <li>🤖 <strong style="color: #22d3ee;">Collaboration:</strong> Seeking allies for <strong style="color: #ec4899;">Spring Boot & AI</strong> expeditions</li>
-      <li>📡 <strong style="color: #22d3ee;">Signal:</strong> Connect at <a href="mailto:siddquiaqib@gmail.com" style="color: #f59e0b; text-decoration: none; transition: color 0.3s;">siddquiaqib@gmail.com</a></li>
-      <li>📜 <strong style="color: #22d3ee;">Blueprint:</strong> Explore my <a href="https://drive.google.com/file/d/1LqNyC_L_x3dbkJ6fA-u_i9Oc8t4IAlYw/view?usp=sharing" target="_blank" style="color: #3b82f6; text-decoration: none; transition: color 0.3s;">Resume</a></li>
-    </ul>
-  </div>
+<!-- Typing Effect Title -->
+<h2 align="center" style="margin:12px 0 0 0; font-weight:800;">Aqib Siddiqui</h2>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+<img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&color=36D1DC&width=500&height=45&lines=AI+Systems+Engineer;Explainable+AI+Developer;End‑to‑End+ML+Pipeline+Builder;Applied+AI+Researcher"/>
+  </a>
+</p>
+
+
+---
+
+### Profile Snapshot
+
+> Architecting interpretable, production‑grade ML pipelines with research‑level reproducibility and deployment‑level reliability.
+
+| Core Competence | Technologies | Evidence |
+|-----------------|--------------|----------|
+| End‑to‑End AI Pipelines | PyTorch · scikit‑learn · LangChain · TensorFlow | Docker hashes · CI logs |
+| Explainability & Fairness | SHAP · Grad‑CAM · Fairlearn · Captum | PDF reports · Jupyter artefacts |
+| Edge & Cloud Deployment | Spring Boot · FastAPI · TensorRT · AWS CDK · GCP · Azure Functions | Live demo endpoints |
+| Verification Discipline | 82%+ coverage · static analysis · regression test harnesses | GitHub Actions · badges |
+| DataOps & MLOps | DVC · MLflow · Airflow · Great Expectations | Auto-tracked experiments & validation |
+
+---
+
+### Tech Stack Mastery
+
+#### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+#### AI/ML Frameworks
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) 
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white) 
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) 
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge) 
+![LightGBM](https://img.shields.io/badge/LightGBM-000000?style=for-the-badge)
+
+#### NLP & LLM
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white) 
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black) 
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge) 
+![Transformers](https://img.shields.io/badge/Transformers-764ABC?style=for-the-badge)
+
+#### MLOps & DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge) 
+![DVC](https://img.shields.io/badge/DVC-945DD6?style=for-the-badge) 
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) 
+![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge) 
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+#### Visualization & UI
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge) 
+![Altair](https://img.shields.io/badge/Altair-1F77B4?style=for-the-badge) 
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+#### Backend & API
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) 
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+### Vision & Next Horizon
+
+> **Project Nebula** – an open‑source, privacy‑preserving federated‑learning framework coupling on‑device differential privacy with live SHAP explanations.
+>
+> **Objectives 2025**
+> • Deploy on 10 000+ edge nodes across healthcare & civic‑IoT networks  
+> • Cut carbon cost per inference by **40 %** via model quantization & smart scheduling  
+> • Public fairness‑drift dashboard updated in real time  
+> • Publish a reproducible white‑paper + dataset cards for peer review
+
+---
+
+### ⚙️ Engineering Principles
+
+- **Transparency First** – Models must ship with SHAP summaries, feature importances, and audit trails
+- **Fail-Safe by Design** – Edge deployments have guardrails, prediction boundaries, and exception-resilient fallbacks
+- **Versioned Science** – All experiments tracked via DVC + MLflow, with exact dependencies and hyperparams
+- **Tight Loop Development** – Every model and service is regression-tested with >80% coverage before staging
+- **Interpretable Pipelines** – Every decision boundary is explainable through visual/quantitative techniques
+- **Human-in-the-Loop AI** – Designs integrate oversight checkpoints into the ML lifecycle
+
+---
+
+### Contact Vector
+
+```
+siddquiaqib@gmail.com   •   github.com/Aqib121201   •   linkedin.com/in/aqib-siddiqui
+```
+
+---
+
+<div align="center" style="font-size:0.9rem;color:#868686;font-style:italic;">
+  Continuous integration of knowledge & infrastructure since 2020.
 </div>
 
-<!-- Tech Stack Section -->
-<div align="center" style="background: rgba(30, 30, 47, 0.9); padding: 40px; margin: 30px 0; border-radius: 15px; box-shadow: 0 0 25px rgba(34, 211, 238, 0.5); border: 1px solid #22d3ee;">
-  <h2 style="color: #22d3ee; font-size: 2.2em; font-weight: bold; text-shadow: 0 0 10px rgba(34, 211, 238, 0.8);">🛠️ Tech Arsenal</h2>
-  <div style="display: grid; grid-template-columns: repeat(6, 1fr); gap: 20px; margin: 20px 0;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="60" style="filter: drop-shadow(0 0 10px rgba(59, 130, 246, 0.7)); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="60" style="filter: drop-shadow(0 0 10px rgba(59, 130, 246, 0.7)); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="60" style="filter: drop-shadow(0 0 10px rgba(147, 51, 234, 0.7)); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" style="filter: drop-shadow(0 0 10px rgba(147, 51, 234, 0.7)); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="60" style="filter: drop-shadow(0 0 10px rgba(236, 72, 153, 0.7)); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring" width="60" style="filter: drop-shadow(0 0 10px rgba(34, 211, 238, 0.7)); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
-    <img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" alt="Hibernate" width="60" style="filter: drop-shadow(0 0 10px rgba(34, 211, 238, 0.7)); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="60" style="filter: drop-shadow(0 0 10px rgba(245, 158, 11, 0.7)); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="60" style="filter: drop-shadow(0 0 10px rgba(245, 158, 11, 0.7)); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="60" style="filter: drop-shadow(0 0 10px rgba(236, 72, 153, 0.7)); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="60" style="filter: drop-shadow(0 0 10px rgba(59, 130, 246, 0.7)); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="60" style="filter: drop-shadow(0 0 10px rgba(59, 130, 246, 0.7)); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="60" style="filter: drop-shadow(0 0 10px rgba(147, 51, 234, 0.7)); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="60" style="filter: drop-shadow(0 0 10px rgba(34, 211, 238, 0.7)); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
-    <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="Redis" width="60" style="filter: drop-shadow(0 0 10px rgba(236, 72, 153, 0.7)); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
-    <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Kafka" width="60" style="filter: drop-shadow(0 0 10px rgba(245, 158, 11, 0.7)); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
-  </div>
-  <p style="color: #e5e7eb; font-size: 1.1em; width: 80%; line-height: 1.5;">
-    ⚡️ Pioneering <strong style="color: #3b82f6;">RESTful APIs</strong> with <strong style="color: #22d3ee;">Spring Boot</strong>, crafting systems with stellar scalability and precision-engineered databases.
-  </p>
+<!-- Footer Wave -->
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer"/>
 </div>
-
-<!-- Connect Section -->
-<div align="center" style="background: rgba(30, 30, 47, 0.9); padding: 40px; margin: 30px 0; border-radius: 15px; box-shadow: 0 0 25px rgba(236, 72, 153, 0.5); border: 1px solid #ec4899;">
-  <h2 style="color: #9333ea; font-size: 2.2em; font-weight: bold; text-shadow: 0 0 10px rgba(147, 51, 234, 0.8);">📡 Interstellar Links</h2>
-  <div style="display: flex; gap: 25px; flex-wrap: wrap; justify-content: center; margin-top: 20px;">
-    <a href="https://dev.to/aqib121201" target="_blank">
-      <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white&labelColor=3b82f6" alt="Dev.to" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
-    </a>
-    <a href="https://x.com/Aqib_Siddiqui_1" target="_blank">
-      <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=22d3ee" alt="X" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
-    </a>
-    <a href="https://linkedin.com/in/aqib-siddiqui-b954021b9" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=ec4899" alt="LinkedIn" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
-    </a>
-    <a href="https://www.instagram.com/aqib.siddiqui121201/?next=%2F" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=9333ea" alt="Instagram" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
-    </a>
-  </div>
-</div>
-
