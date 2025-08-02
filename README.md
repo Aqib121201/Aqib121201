@@ -97,7 +97,7 @@
 ### Contact Vector
 
 ```
-siddquiaqib@gmail.com   •   github.com/Aqib121201   •   linkedin.com/in/aqib-siddiqui
+siddquiaqib@gmail.com   •   linkedin.com/in/aqib-siddiqui-b954021b9   •   leetcode.com/u/aqib_siddiqui_121201/
 ```
 
 ---
